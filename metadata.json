@@ -1,0 +1,8 @@
+{
+  "name": "Gittu AR Lens",
+  "description": "An educational AR measurement app for geometry and mensuration, allowing students to measure shapes and distances on real-world photos or live using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
